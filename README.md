@@ -6,3 +6,7 @@ EBnB is an application where Users in need for sheltering is able to find a plac
 This project will be using the AirBnB API be able to function just like AirBnB, but for emergency use, as well as using the Google API.  The user will be able to filter people and bedding to determine the users need and if it is available. EBnB will be collaborating with Buber to get the user to their new found destination.
 
 The backend will be cataloging Delaware's locations and frontend will be used for user registrations. The frontend will communicate with the backend for housing availability. The application's stack will be RDS Postgres, Java, Spring-boot, and React Javascript.
+
+UI Design: _.png
+           _.register_host.png
+           _.user_register.png
